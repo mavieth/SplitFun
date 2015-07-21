@@ -1,0 +1,5 @@
+version: "Apple Swift version 1.2 (swiftlang-602.0.53.1 clang-602.0.53)"
+options: "494385f6973b4a9d1afdb592f6132e67"
+inputs: 
+- "/Users/MichaelVieth/Documents/iOS/SplitFun/SplitFun/SplitFun/ViewController.swift"
+- "/Users/MichaelVieth/Documents/iOS/SplitFun/SplitFun/SplitFun/AppDelegate.swift"
